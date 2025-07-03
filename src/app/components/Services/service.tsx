@@ -9,7 +9,6 @@ import serviceBg from "../../assets/images/serviceBg.png"
 import Projects from "./Projects"
 import HumanResourceManagement from "../CaseStudy/human-resource-management/assets/cover.png"
 import LitigationManagementSystem from "../CaseStudy/litigation-management-system/assets/cover.png"
-import ResourceManagementSystem from "../CaseStudy/resource/assets/cover.png"
 import ClinicManagementSystem from "../CaseStudy/brt-centers/assets/brt1.png"
 import FundingManagementSystem from "../CaseStudy/funding-management-system/assets/cover.png"
 import RecordManagementSystem from "../CaseStudy/record-management-system/assets/cover.png"
@@ -77,14 +76,6 @@ const Service = () => {
       description:
         "Automating logistics operations with a custom ERP, optimizing inventory management and order processing.",
       link: "/case-study/wizz",
-      category: "CRM & ERP Development",
-    },
-    {
-      image: ResourceManagementSystem,
-      heading: "Real Estate Management System",
-      description:
-        "A centralized tool for tracking properties, managing clients, and streamlining real estate transactions.",
-      link: "/case-study/resource",
       category: "CRM & ERP Development",
     },
     {
